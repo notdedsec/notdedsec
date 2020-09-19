@@ -7,9 +7,10 @@
 - 💬 Ask me about Anime, Python, Bots and Scripting.
 - ⚡ Fun fact: This is Jojo's reference.
 - 📫 How to reach me?
--  Discord: notdedsec#6215
--  Twitter: not_dedsec
--  Telegram: @notdedsec
+    - Discord: notdedsec#6215
+    - Twitter: not_dedsec
+    - Telegram: @notdedsec
+    - Gmail: notdedsec@gmail.com
 
 <!--
 Here are some ideas to get you started:
