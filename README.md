@@ -8,8 +8,8 @@
 - ⚡ Fun fact: This is Jojo's reference.
 - 📫 How to reach me?
     - Discord: notdedsec#6215
-    - Twitter: not_dedsec
-    - Telegram: @notdedsec
+    - Twitter: [not_dedsec](https://twitter.com/not_dedsec)
+    - Telegram: [@notdedsec](https://t.me/notdedsec)
     - Gmail: notdedsec@gmail.com
 
 <!--
