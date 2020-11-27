@@ -2,15 +2,16 @@
 
 ![dedsec's github stats](https://github-readme-stats.vercel.app/api?username=notdedsec&count_private=true&show_icons=true&theme=prussian)
 
-- 😄 Pronouns: ded
-- 🌱 I’m currently learning Java, Spring, API development.
-- 💬 Ask me about Anime, Python, Bots and Scripting.
+- 😄 Call me ded/deds
+- 🌱 I’m currently learning Java, Spring and API development.
+- 💬 Ask me about anime, python, bots, scripting and video encoding.
 - ⚡ Fun fact: This is Jojo's reference.
 - 📫 How to reach me?
     - Discord: notdedsec#6215
     - Twitter: [not_dedsec](https://twitter.com/not_dedsec)
     - Telegram: [@notdedsec](https://t.me/notdedsec)
     - Gmail: notdedsec@gmail.com
+    - Website: notdedsec.com
 
 <!--
 Here are some ideas to get you started:
