@@ -11,7 +11,7 @@
     - Twitter: [not_dedsec](https://twitter.com/not_dedsec)
     - Telegram: [@notdedsec](https://t.me/notdedsec)
     - Gmail: notdedsec@gmail.com
-    - Website: notdedsec.com
+    - Website: [notdedsec.com](http://notdedsec.com)
 
 <!--
 Here are some ideas to get you started:
